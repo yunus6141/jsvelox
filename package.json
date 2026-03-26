@@ -1,0 +1,12 @@
+{
+  "name": "jsvelox",
+  "codename": "Quagga",
+  "version": "2.1.0",
+  "description": "Zero-overhead AI integration library — connect Claude, OpenAI and Gemini, train with your own data, no server required.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "keywords": ["ai", "claude", "openai", "gemini", "jsvelox", "artificial-intelligence", "chatbot", "llm", "api-wrapper", "conversation"],
+  "author": "Yunus Emre Sancak",
+  "license": "MIT"
+}
